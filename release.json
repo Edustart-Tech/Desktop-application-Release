@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0Y3RXJZdHk3RlJMeGtPVkhYZENmL0k2NzRCeGFSWEFOOXhQS1VpNVN4MmxOZ0V1TWNBSDVxaUgwVENsMnhWczdaSXA4V1ZNOGFjekxnSkdadWM1aUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NDA4NjQxCWZpbGU6ZWR1c3RhcnQtdWlfMC4xLjFfeDY0LXNldHVwLmV4ZQp5TVV6TW40Wlp6RnVjSlFjTU9tOUpwQksvZitCN0hUV2VwWXE5c3hvbi9wVVBvbWdpWGMvWXpYaDkvRkl4M0R6WmZMMytVZWJyTFp4SEI3TmcyK3FBZz09Cg==",
-      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.1.1/edustart-ui_0.1.1_x64-setup.exe"
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/0.1.1/edustart-ui_0.1.1_x64-setup.exe"
     }
   }
 }
