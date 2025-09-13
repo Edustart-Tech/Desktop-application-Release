@@ -12,8 +12,8 @@
       "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/0.1.1/edustart-ui_0.1.1_aarch64.dmg"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0hES0Y1azEwVi9hR1NHaEMxelZBdkJJMWl2cnQ0d3ZYZzBaejdmT3JHbEJ3T2g5cnJCbDdncEhEUmNSMUxIZWN4SS8yd3lKQmpBbGZZcDREWmZEcFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NjU4MTk3CWZpbGU6ZWR1c3RhcnQtdWkuYXBwLnRhci5negozUGpNeFE3aEUwdWRLS2RsdjRKMGdoSVF2bURNSXNhVzVzWmp0TFhQdmNtRW1nWXdUR1BrQTdmZ01La0pWMjlHY1o5TzQ3aFozTG41Y2tub2pEdEpEdz09Cg==",
-      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/0.1.1/edustart-ui_0.1.1_aarch64.dmg"
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.1.1/edustart-ui_0.1.1_aarch64.dmg",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0NROFRPbmF1WlJuT0pSbmxEb1NTM2RwU2tDZVB3MVpkSHhYNlk1RTd5WU0xWXRSbmhrcUVyU0Y3RDZCdUpGVkNxby9JczB3eHlQOXNYbW5LSzZxQ0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Nzg1NTczCWZpbGU6ZWR1c3RhcnQtdWlfMC4xLjFfYWFyY2g2NC5kbWcKd0hzZmtmeHJrWEkwOHMzZWV0cW9aL2pEVDgzS2QrL2tvcmhmTjZENk54UWdTaTZPNFVsTFhVazFqT2ppZGZXV3l5amlVdjhPV0FrZmFkUC92VXIrRGc9PQo="
     }
   }
 }
