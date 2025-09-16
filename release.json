@@ -14,6 +14,10 @@
     "darwin-aarch64": {
       "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.1.2/edustart-ui_0.1.2_aarch64.dmg",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ01YT2lMcFZQaG1wM0xYSmdDRzZSWE43WEptemJTTy9ZdVVPWEJ6TysyVkFOcDVyT1VmNWxZOFI5aEwzb2RQQXlMbWZXc3prQ3Z1MkVPZEJ2UTFCV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Nzg5NDY0CWZpbGU6ZWR1c3RhcnQtdWlfMC4xLjJfYWFyY2g2NC5kbWcKcnducG5aZ2Y5anBhWWZnUU9uVFYwMjljZHZlZ0VUSVByR1drMlNZK1RNOFNJTlFKMFZDTVR0U0EvR3JmUjZlUWZJWGQzZFMwK21DckZwSzNqMEVwQUE9PQo="
+    },
+    "windows": {
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.1.2/Class.Prime_0.1.2_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0o5azNpQXBVaHI0djdvZS9UdWFoSGVFN2NSV3dueEJNYURJZGhCZE1laUNjUC96ZnRnWUUwbGI5UHkxYkNJaEZCT0UrcWYrRnM3dWNDY2RxZGtYQ1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MDA0OTI3CWZpbGU6Q2xhc3MgUHJpbWVfMC4xLjJfeDY0X2VuLVVTLm1zaQpjc3MxMGJvd0o1QW1YU2gwZ0REeDFLN1IrcXFxTi9zMHBOMWpyaUdab3A5dk82NzBJeHpZV3JGcE5HdGk4WHJlditxVUgraDlRK0t1UXRLdXBaZThDUT09Cg=="
     }
   }
 }
