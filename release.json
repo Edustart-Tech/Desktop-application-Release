@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "notes": "Trial Release",
   "pub_date": "2025-09-09T14:30:00Z",
   "platforms": {
@@ -16,8 +16,8 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ01YT2lMcFZQaG1wM0xYSmdDRzZSWE43WEptemJTTy9ZdVVPWEJ6TysyVkFOcDVyT1VmNWxZOFI5aEwzb2RQQXlMbWZXc3prQ3Z1MkVPZEJ2UTFCV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Nzg5NDY0CWZpbGU6ZWR1c3RhcnQtdWlfMC4xLjJfYWFyY2g2NC5kbWcKcnducG5aZ2Y5anBhWWZnUU9uVFYwMjljZHZlZ0VUSVByR1drMlNZK1RNOFNJTlFKMFZDTVR0U0EvR3JmUjZlUWZJWGQzZFMwK21DckZwSzNqMEVwQUE9PQo="
     },
     "windows": {
-      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.2.0/Class.Prime_0.2.0_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ053ZEpCcm1iSHJsUTRxSnZ2SkNlTUlqeTlNblErNDMyZmtHRmhqaXJIdnVBSWhFSkZod3FFbDlsb3ppS1Z3K0t3cVh4S2Jhcm1OM0hPakpNN21lamdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MDEwODU2CWZpbGU6Q2xhc3MgUHJpbWVfMC4yLjBfeDY0X2VuLVVTLm1zaQpUQjhxc3lKMWI2NzJVTy9vWjk2bklmRWVzbHZrTktaK1lsaDJUZHBUVkc4RFkwUDJLcFF4c0cxQ1FCa0hHYytuRDFRVCtsSFFTcWU2MmVDMWJ0VlNDUT09Cg=="
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.2.1/Class.Prime_0.2.1_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ05KWmRraERrS1hjdHlXMHRFalRraUlFR2kwN3J1cXMyekxuZ1pSOEFMZ096VCtwN3ptM1lRQWpHeVFRc2FDWVVlMGFONEE0ekFHWi9PcUx0dVJ0MGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MDE1NDAxCWZpbGU6Q2xhc3MgUHJpbWVfMC4yLjFfeDY0X2VuLVVTLm1zaQozaDNqZUpocVlpSU5zUzViWUoxeEoyWW5zemlEV2prdjFENUxNL0t2WXhCUXlnTTZmMnRqQTdyMnlpMXpUWmxIZFIwK2NWTkJTMjdZVXhDcEpNbHRBQT09Cg=="
     }
   }
 }
