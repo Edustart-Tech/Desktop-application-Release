@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "notes": "Trial Release",
+  "pub_date": "2025-09-09T14:30:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.2.3/Class.Prime_0.2.3_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ05LUDFNNmRCWHRkV2d3NHZUd25FamZ2Rm9Qd21NZitkdFNxMVpGdlZBUkt3Vk9SQU1SdWlDbzBPRUJZbkNKOGRZU1UzWndQeWpWandQS3ZnbzRDaXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MzQ1NDc2CWZpbGU6Q2xhc3MgUHJpbWVfMC4yLjNfeDY0X2VuLVVTLm1zaQpoamhYdU4zbVRETEw5dkdnTTN3eGJXbHkrS0dRMGp1WVVEUmw4UjFPbEVMMTY5QkhWaHRoN0dHWWh5L0JXak41L2xsWGtGNm85Smp3YkZoVXpNZm1EUT09Cg=="
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0hES0Y1azEwVi9hR1NHaEMxelZBdkJJMWl2cnQ0d3ZYZzBaejdmT3JHbEJ3T2g5cnJCbDdncEhEUmNSMUxIZWN4SS8yd3lKQmpBbGZZcDREWmZEcFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NjU4MTk3CWZpbGU6ZWR1c3RhcnQtdWkuYXBwLnRhci5negozUGpNeFE3aEUwdWRLS2RsdjRKMGdoSVF2bURNSXNhVzVzWmp0TFhQdmNtRW1nWXdUR1BrQTdmZ01La0pWMjlHY1o5TzQ3aFozTG41Y2tub2pEdEpEdz09Cg==",
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/0.1.1/edustart-ui_0.1.1_aarch64.dmg"
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v1.0.0/Class.Fi_1.0.0_aarch64.dmg",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0ZWVnY0NlhWSnFBb1E3d043dGpaNXpWVFNieEpYcVROdnhKM0tKa1djNGhNNkc1ZkxWZ256a2twRytSV2h5NzFUNFVTMG1IMTFOeTcraXdIb1ZCbGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5OTUxMjQ0CWZpbGU6Q2xhc3MgRmlfMS4wLjBfYWFyY2g2NC5kbWcKNW9zNUZmNENBOE80cTRPcmllb25NV0k2bDJ3bHgycFp6eFFPL3JWNXViYnRKUHJkY0pDUDRCK0lUM2RMUkgwdCtQcndreG1QaXRzUUMxTjU3VFFsQ3c9PQo="
+    },
+    "windows": {
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.2.1/Class.Prime_0.2.1_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ05KWmRraERrS1hjdHlXMHRFalRraUlFR2kwN3J1cXMyekxuZ1pSOEFMZ096VCtwN3ptM1lRQWpHeVFRc2FDWVVlMGFONEE0ekFHWi9PcUx0dVJ0MGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MDE1NDAxCWZpbGU6Q2xhc3MgUHJpbWVfMC4yLjFfeDY0X2VuLVVTLm1zaQozaDNqZUpocVlpSU5zUzViWUoxeEoyWW5zemlEV2prdjFENUxNL0t2WXhCUXlnTTZmMnRqQTdyMnlpMXpUWmxIZFIwK2NWTkJTMjdZVXhDcEpNbHRBQT09Cg=="
+    }
+  }
+}
