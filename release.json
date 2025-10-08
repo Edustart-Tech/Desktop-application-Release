@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
+  "version": "1.0.0",
   "notes": "Trial Release",
   "pub_date": "2025-09-09T14:30:00Z",
   "platforms": {
@@ -12,8 +12,8 @@
       "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/0.1.1/edustart-ui_0.1.1_aarch64.dmg"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.1.2/edustart-ui_0.1.2_aarch64.dmg",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ01YT2lMcFZQaG1wM0xYSmdDRzZSWE43WEptemJTTy9ZdVVPWEJ6TysyVkFOcDVyT1VmNWxZOFI5aEwzb2RQQXlMbWZXc3prQ3Z1MkVPZEJ2UTFCV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3Nzg5NDY0CWZpbGU6ZWR1c3RhcnQtdWlfMC4xLjJfYWFyY2g2NC5kbWcKcnducG5aZ2Y5anBhWWZnUU9uVFYwMjljZHZlZ0VUSVByR1drMlNZK1RNOFNJTlFKMFZDTVR0U0EvR3JmUjZlUWZJWGQzZFMwK21DckZwSzNqMEVwQUE9PQo="
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v1.0.0/Class.Fi_1.0.0_aarch64.dmg",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0ZWVnY0NlhWSnFBb1E3d043dGpaNXpWVFNieEpYcVROdnhKM0tKa1djNGhNNkc1ZkxWZ256a2twRytSV2h5NzFUNFVTMG1IMTFOeTcraXdIb1ZCbGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5OTUxMjQ0CWZpbGU6Q2xhc3MgRmlfMS4wLjBfYWFyY2g2NC5kbWcKNW9zNUZmNENBOE80cTRPcmllb25NV0k2bDJ3bHgycFp6eFFPL3JWNXViYnRKUHJkY0pDUDRCK0lUM2RMUkgwdCtQcndreG1QaXRzUUMxTjU3VFFsQ3c9PQo="
     },
     "windows": {
       "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v0.2.1/Class.Prime_0.2.1_x64_en-US.msi",
