@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "notes": "Trial Release",
-  "pub_date": "2025-10-29T00:45:07.154Z",
+  "pub_date": "2025-10-29T06:22:14.422Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v1.0.7/Class.Prime_1.0.7_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ1A3elhLWW9SSHdPUEhZbzdIV1lDUzZFYUs2dnhvYVBVMUtRTW1oRVJRVk5MQi9QaEVYSm1IdVRlZ2lUTWozT3NXL2JjdTV4czNEVzJ4VW9lOVZTZ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNjk4NjkwCWZpbGU6Q2xhc3MgUHJpbWVfMS4wLjdfeDY0X2VuLVVTLm1zaQoxcFhScEtsWTFWWTU2VjVOS3liYVV0VnRjbFlEWTc3MDc4L2pIejdDQ1pNQUVReENQT1MzRllRWlRJWEhRb1NqYmRrRmJ5ODUzUWFsaHNzTHExRjBEdz09Cg=="
+      "url": "https://github.com/Edustart-Tech/Desktop-application-Release/releases/download/v1.0.8/Class.Prime_1.0.8_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0tMbFJUOXBoVUF3V3d2UlZGUDhxRy9qTitZRzN2cnl4T1RSdFRSL0dqbnFXbkF4WE1TRlZwalNiNHFZVk01c1dhY0E0ZUpoZEU2alFzbS9BUHE5NlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNzE4OTA4CWZpbGU6Q2xhc3MgUHJpbWVfMS4wLjhfeDY0X2VuLVVTLm1zaQpESmJlTG9IRk1GUlpKNktMandzcHR5aXJCY25TVVdtUmVFRmlmNUU3SXAvTmhCOXZtY0lSOE5DdXFPUmpGSTQ5cmIwQTBsYldnRWlNakJ4ZTZGdFBBQT09Cg=="
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGpnWHJoZERFQ0hES0Y1azEwVi9hR1NHaEMxelZBdkJJMWl2cnQ0d3ZYZzBaejdmT3JHbEJ3T2g5cnJCbDdncEhEUmNSMUxIZWN4SS8yd3lKQmpBbGZZcDREWmZEcFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3NjU4MTk3CWZpbGU6ZWR1c3RhcnQtdWkuYXBwLnRhci5negozUGpNeFE3aEUwdWRLS2RsdjRKMGdoSVF2bURNSXNhVzVzWmp0TFhQdmNtRW1nWXdUR1BrQTdmZ01La0pWMjlHY1o5TzQ3aFozTG41Y2tub2pEdEpEdz09Cg==",
