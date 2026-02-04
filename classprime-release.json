@@ -1,6 +1,20 @@
 {
   "version": "0.2.1",
-  "notes": "Realse Notes",
+  "notes": "## ✨ New Features
+- AI tutoring assistant with personalized feedback
+- Offline download progress now shows in sync dashboard
+
+## 🐛 Bug Fixes
+- Fixed audio playback stuttering on Windows
+- Resolved lesson preview not loading cards correctly
+
+## 🎨 Improvements
+- Updated lesson builder UI with smoother animations
+- Better dark mode support across all pages
+
+## ⚡ Performance
+- Faster 3D model loading times
+- Optimized memory usage for large lessons",
   "pub_date": "2026-01-31T21:12:04.840Z",
   "platforms": {
     "windows-x86_64": {
